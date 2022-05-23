@@ -17,7 +17,7 @@ body {
 #grades {
   text-align: center;
 }
-#fh {
+.fh {
   background-color: lightblue;
   color: blue;
   padding: 25px;
@@ -28,4 +28,6 @@ body {
 #name {
   background-color: lightblue;
   font-size: 30px;
+}
+.grade {
 }
