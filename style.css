@@ -24,10 +24,32 @@ body {
   font-family: serif;
   font-size: 25px;
   text-align: center;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
 }
 #name {
   background-color: lightblue;
   font-size: 30px;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
 }
 .grade {
+  font-size: 25px;
+  background-color: lightblue;
+  color: blue;
+  text-align: center;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
+}
+.percent {
+  font-size: 25px;
+  background-color: lightblue;
+  color: blue;
+  text-align: center;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
 }
