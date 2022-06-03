@@ -53,3 +53,20 @@ body {
   border-top: lightblue;
   border-left: lightblue;
 }
+.gpa {
+  background-color: lightblue;
+  font-size: 30px;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
+  color: green;
+  text-align: center;
+}
+.gpan{
+  background-color: lightblue;
+  font-size: 30px;
+  border-color: lightblue;
+  border-top: lightblue;
+  border-left: lightblue;
+  color: green;
+}
